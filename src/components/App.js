@@ -1,7 +1,7 @@
 import React from 'react'
 import '../styles/App.css';
 const App = () => {
-  const [flag, setFlag] = useState(false);
+  const [flag, setFlag] = useState(true);
   const [Marco, setMarco] = useState("Marco");
   const [Polo, setPolo] = useState("Polo");
   
